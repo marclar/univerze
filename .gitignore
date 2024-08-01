@@ -1,0 +1,16 @@
+.idea
+.DS_Store
+.vercel
+node_modules
+output/**/*
+__pycache__
+.env
+.next
+public/pdfs/Annoy.pdf
+public/pdfs/Attack.pdf
+public/pdfs/Flaw.pdf
+deck-templates
+.vscode
+myenv
+.lua
+dist
